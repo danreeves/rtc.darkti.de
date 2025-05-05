@@ -1,5 +1,5 @@
 [package]
-name = "rtc.darkti.de"
+name = "matchbox_server"
 version = "0.0.0"
 authors = ["Johan Helsing <johanhelsing@gmail.com>"]
 edition = "2021"
