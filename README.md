@@ -1,6 +1,3 @@
-# Signaling Server
-
-A lightweight signaling server with some opinions, to work with all [examples](../examples/).
 
 ## Next rooms
 
